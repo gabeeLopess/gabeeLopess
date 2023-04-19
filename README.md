@@ -12,5 +12,4 @@
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Galvao-de-Camargo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabeeLopess&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

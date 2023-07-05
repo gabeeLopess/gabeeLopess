@@ -16,5 +16,5 @@
 
 </div>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabeeLopess&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
